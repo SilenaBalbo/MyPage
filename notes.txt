@@ -1,0 +1,26 @@
+This Page is for my Notes:
+
+What pages do I want?
+
+- Home
+- About
+- Portfolio
+- Blog
+- Contact
+
+
+Sections:
+
+Home
+About
+Portfolio
+-Projects
+Blog
+-Everyday
+-Travel
+Contact
+Footer
+
+What do I need?
+
+
